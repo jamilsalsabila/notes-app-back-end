@@ -1,6 +1,9 @@
 {
     "env": {
+<<<<<<< HEAD
         "commonjs": true,
+=======
+>>>>>>> cb01377 (restructure with hapi plugin)
         "es2021": true,
         "node": true
     },
@@ -8,9 +11,16 @@
         "airbnb-base"
     ],
     "parserOptions": {
+<<<<<<< HEAD
         "ecmaVersion": 12
     },
     "rules": {
 			"no-console": "off"
+=======
+        "ecmaVersion": 2020
+    },
+    "rules": {
+        "no-console": "off"
+>>>>>>> cb01377 (restructure with hapi plugin)
     }
 }

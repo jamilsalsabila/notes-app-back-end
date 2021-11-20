@@ -1,2 +1,5 @@
 node_modules
+<<<<<<< HEAD
 aws
+=======
+>>>>>>> cb01377 (restructure with hapi plugin)
