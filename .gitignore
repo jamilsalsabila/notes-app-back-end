@@ -1,5 +1,9 @@
 node_modules
 <<<<<<< HEAD
+<<<<<<< HEAD
 aws
 =======
 >>>>>>> cb01377 (restructure with hapi plugin)
+=======
+github_token.txt
+>>>>>>> 2d4a052 (add token)
